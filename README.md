@@ -1,6 +1,6 @@
 # Publications
 This is a list of my author and co-author publications.\
-Refereed publications of the ATLAS Collaboration are limited to those published in international journals or conferences in which I played a leading role. It should be noted that I has also published several internal notes within the ATLAS Collaboration not listed here due to confidentiality issues.
+Refereed publications of the ATLAS Collaboration are limited to those in which I played a leading role. I have also published several internal notes within the ATLAS Collaboration not listed here due to confidentiality issues.
 
 - **G. Marceca**, F. Felici, A. Pau, O. Sauter. *Real-time recognition of plasma confinement states in TCV and transfer learning to JET using ML models*. 47th EPS Conference on Plasma Physics (EPS 2021), Virtual conference
 - **F. Matos**, G. Marceca, V. Menkovski, A. Pau and F. Jenko. *Plasma confinement mode classification using a sequence-to-sequence neural network with attention*. Nuclear Fusion 2021.
